@@ -1,6 +1,6 @@
 # Langchain
 
-•	Developed RAG Q&A application with multiple data sources as arxiv,wikipedia,and others. 
+•	Developed RAG Q&A application with multiple data sources as arxiv,wikipedia,and others using `agents.ipynb`. 
 
 ## Tools 
 * [LangChain](https://www.langchain.com/)
